@@ -6,7 +6,7 @@ public class My_First_Class
 	{
 		System.out.println("Hello everyone");
 		System.out.println("this is my first java project");
-		System.out.println("i have created an one demo project on github desktop");
+		System.out.println("hellow my all have created an one demo project on github desktop");
 
 	}
 
