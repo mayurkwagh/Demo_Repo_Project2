@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-29T10:05:10 IST" name="Regression Suite" finished-at="2023-01-29T10:06:18 IST" duration-ms="68369">
+    <groups>
+    </groups>
+    <test started-at="2023-01-29T10:05:10 IST" name="Regression Test" finished-at="2023-01-29T10:06:18 IST" duration-ms="68369">
+      <class name="com.luma.testLayer.LoginPageTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.luma.testLayer.LoginPageTest@1189dd52]" started-at="2023-01-29T10:06:00 IST" name="start" finished-at="2023-01-29T10:06:00 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.luma.testLayer.LoginPageTest@1189dd52]" started-at="2023-01-29T10:06:00 IST" name="setUp" finished-at="2023-01-29T10:06:07 IST" duration-ms="7307" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginTest()[pri:0, instance:com.luma.testLayer.LoginPageTest@1189dd52]" started-at="2023-01-29T10:06:07 IST" name="verifyLoginTest" finished-at="2023-01-29T10:06:17 IST" duration-ms="9844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.testLayer.LoginPageTest@1189dd52]" started-at="2023-01-29T10:06:17 IST" name="tearDown" finished-at="2023-01-29T10:06:18 IST" duration-ms="1138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:com.luma.testLayer.LoginPageTest@1189dd52]" started-at="2023-01-29T10:06:18 IST" name="stop" finished-at="2023-01-29T10:06:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- com.luma.testLayer.LoginPageTest -->
+      <class name="com.luma.testLayer.BuyFuctionality">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.luma.testLayer.BuyFuctionality@72d1ad2e]" started-at="2023-01-29T10:05:10 IST" name="start" finished-at="2023-01-29T10:05:10 IST" duration-ms="637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.luma.testLayer.BuyFuctionality@72d1ad2e]" started-at="2023-01-29T10:05:10 IST" name="setUp" finished-at="2023-01-29T10:05:23 IST" duration-ms="12272" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBuyFunctionalityWithLogin()[pri:0, instance:com.luma.testLayer.BuyFuctionality@72d1ad2e]" started-at="2023-01-29T10:05:23 IST" name="verifyBuyFunctionalityWithLogin" finished-at="2023-01-29T10:05:40 IST" duration-ms="16967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBuyFunctionalityWithLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.testLayer.BuyFuctionality@72d1ad2e]" started-at="2023-01-29T10:05:40 IST" name="tearDown" finished-at="2023-01-29T10:05:41 IST" duration-ms="966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.luma.testLayer.BuyFuctionality@72d1ad2e]" started-at="2023-01-29T10:05:41 IST" name="setUp" finished-at="2023-01-29T10:05:49 IST" duration-ms="8272" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBuyFunctionalityWithoutLogin()[pri:0, instance:com.luma.testLayer.BuyFuctionality@72d1ad2e]" started-at="2023-01-29T10:05:49 IST" name="verifyBuyFunctionalityWithoutLogin" finished-at="2023-01-29T10:05:59 IST" duration-ms="9890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBuyFunctionalityWithoutLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.testLayer.BuyFuctionality@72d1ad2e]" started-at="2023-01-29T10:05:59 IST" name="tearDown" finished-at="2023-01-29T10:06:00 IST" duration-ms="847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:com.luma.testLayer.BuyFuctionality@72d1ad2e]" started-at="2023-01-29T10:06:00 IST" name="stop" finished-at="2023-01-29T10:06:00 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- com.luma.testLayer.BuyFuctionality -->
+    </test> <!-- Regression Test -->
+  </suite> <!-- Regression Suite -->
+</testng-results>
