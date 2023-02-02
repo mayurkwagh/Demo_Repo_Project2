@@ -269,3 +269,80 @@
 2023-01-29 10:06:17,329 - Demoblaze Automation Framework -INFO - Test Case execution completed 
 2023-01-29 10:06:18,468 - Demoblaze Automation Framework -INFO - Browser closed
 2023-01-29 10:06:18,470 - Demoblaze Automation Framework -INFO - Framework execution stopped
+2023-02-02 10:16:40,739 - Demoblaze Automation Framework -INFO - Framework execution started
+2023-02-02 10:16:53,938 - Demoblaze Automation Framework -INFO - Browser launches, maximize, waits
+2023-02-02 10:16:54,055 - Demoblaze Automation Framework -INFO - Object Creation
+2023-02-02 10:16:54,092 - Demoblaze Automation Framework -INFO - Test Case execution started 
+2023-02-02 10:17:03,134 - Demoblaze Automation Framework -INFO - Product added to cart
+2023-02-02 10:17:06,432 - Demoblaze Automation Framework -INFO - Order placed successfully
+2023-02-02 10:17:06,526 - Demoblaze Automation Framework -INFO - Test Case execution completed 
+2023-02-02 10:17:07,094 - Demoblaze Automation Framework -INFO - Browser closed
+2023-02-02 10:17:12,524 - Demoblaze Automation Framework -INFO - Browser launches, maximize, waits
+2023-02-02 10:17:12,529 - Demoblaze Automation Framework -INFO - Object Creation
+2023-02-02 10:17:12,537 - Demoblaze Automation Framework -INFO - Test Case execution started 
+2023-02-02 10:17:16,389 - Demoblaze Automation Framework -INFO - Product added to cart
+2023-02-02 10:17:19,266 - Demoblaze Automation Framework -INFO - Order placed successfully
+2023-02-02 10:17:19,349 - Demoblaze Automation Framework -INFO - Test Case execution completed 
+2023-02-02 10:17:19,812 - Demoblaze Automation Framework -INFO - Browser closed
+2023-02-02 10:17:19,814 - Demoblaze Automation Framework -INFO - Framework execution stopped
+2023-02-02 10:17:19,825 - Demoblaze Automation Framework -INFO - Framework execution started
+2023-02-02 10:17:25,239 - Demoblaze Automation Framework -INFO - Browser launches, maximize, waits
+2023-02-02 10:17:25,245 - Demoblaze Automation Framework -INFO - Object Creation
+2023-02-02 10:17:25,248 - Demoblaze Automation Framework -INFO - Test Case execution started 
+2023-02-02 10:17:31,792 - Demoblaze Automation Framework -INFO - User logged into the application
+2023-02-02 10:17:31,839 - Demoblaze Automation Framework -INFO - Test Case execution completed 
+2023-02-02 10:17:32,249 - Demoblaze Automation Framework -INFO - Browser closed
+2023-02-02 10:17:32,251 - Demoblaze Automation Framework -INFO - Framework execution stopped
+2023-02-02 10:25:40,633 - Demoblaze Automation Framework -INFO - Framework execution started
+2023-02-02 10:25:40,640 - Demoblaze Automation Framework -INFO - Framework execution started
+2023-02-02 10:25:53,306 - Demoblaze Automation Framework -INFO - Browser launches, maximize, waits
+2023-02-02 10:25:53,314 - Demoblaze Automation Framework -INFO - Browser launches, maximize, waits
+2023-02-02 10:25:53,315 - Demoblaze Automation Framework -INFO - Browser launches, maximize, waits
+2023-02-02 10:25:53,407 - Demoblaze Automation Framework -INFO - Object Creation
+2023-02-02 10:25:53,408 - Demoblaze Automation Framework -INFO - Object Creation
+2023-02-02 10:25:53,408 - Demoblaze Automation Framework -INFO - Object Creation
+2023-02-02 10:25:53,451 - Demoblaze Automation Framework -INFO - Test Case execution started 
+2023-02-02 10:25:53,452 - Demoblaze Automation Framework -INFO - Test Case execution started 
+2023-02-02 10:25:53,466 - Demoblaze Automation Framework -INFO - Test Case execution started 
+2023-02-02 10:25:55,177 - Demoblaze Automation Framework -INFO - Test Case execution failed 
+2023-02-02 10:25:56,320 - Demoblaze Automation Framework -INFO - Test Case execution failed 
+2023-02-02 10:25:56,756 - Demoblaze Automation Framework -INFO - Take Screenshot
+2023-02-02 10:25:57,304 - Demoblaze Automation Framework -INFO - Take Screenshot
+2023-02-02 10:25:59,807 - Demoblaze Automation Framework -INFO - Test Case execution failed 
+2023-02-02 10:25:59,827 - Demoblaze Automation Framework -INFO - Test Case execution failed 
+2023-02-02 10:25:59,880 - Demoblaze Automation Framework -INFO - Browser closed
+2023-02-02 10:25:59,881 - Demoblaze Automation Framework -INFO - Browser closed
+2023-02-02 10:25:59,884 - Demoblaze Automation Framework -INFO - Framework execution stopped
+2023-02-02 10:25:59,885 - Demoblaze Automation Framework -INFO - Framework execution stopped
+2023-02-02 10:29:33,444 - Demoblaze Automation Framework -INFO - Framework execution started
+2023-02-02 10:29:41,550 - Demoblaze Automation Framework -INFO - Browser launches, maximize, waits
+2023-02-02 10:29:41,603 - Demoblaze Automation Framework -INFO - Object Creation
+2023-02-02 10:29:41,620 - Demoblaze Automation Framework -INFO - Test Case execution started 
+2023-02-02 10:29:50,125 - Demoblaze Automation Framework -INFO - Product added to cart
+2023-02-02 10:30:11,610 - Demoblaze Automation Framework -INFO - Test Case execution failed 
+2023-02-02 10:30:11,869 - Demoblaze Automation Framework -INFO - Take Screenshot
+2023-02-02 10:30:12,331 - Demoblaze Automation Framework -INFO - Browser closed
+2023-02-02 10:30:18,579 - Demoblaze Automation Framework -INFO - Browser launches, maximize, waits
+2023-02-02 10:30:18,582 - Demoblaze Automation Framework -INFO - Object Creation
+2023-02-02 10:30:18,586 - Demoblaze Automation Framework -INFO - Test Case execution started 
+2023-02-02 10:30:22,391 - Demoblaze Automation Framework -INFO - Product added to cart
+2023-02-02 10:30:43,790 - Demoblaze Automation Framework -INFO - Test Case execution failed 
+2023-02-02 10:30:44,043 - Demoblaze Automation Framework -INFO - Take Screenshot
+2023-02-02 10:30:44,436 - Demoblaze Automation Framework -INFO - Browser closed
+2023-02-02 10:30:44,438 - Demoblaze Automation Framework -INFO - Framework execution stopped
+2023-02-02 10:38:24,509 - Demoblaze Automation Framework -INFO - Framework execution started
+2023-02-02 10:38:33,227 - Demoblaze Automation Framework -INFO - Browser launches, maximize, waits
+2023-02-02 10:38:33,286 - Demoblaze Automation Framework -INFO - Object Creation
+2023-02-02 10:38:33,312 - Demoblaze Automation Framework -INFO - Test Case execution started 
+2023-02-02 10:38:41,992 - Demoblaze Automation Framework -INFO - Product added to cart
+2023-02-02 10:39:05,119 - Demoblaze Automation Framework -INFO - Test Case execution failed 
+2023-02-02 10:39:05,357 - Demoblaze Automation Framework -INFO - Take Screenshot
+2023-02-02 10:39:05,788 - Demoblaze Automation Framework -INFO - Browser closed
+2023-02-02 10:39:10,953 - Demoblaze Automation Framework -INFO - Browser launches, maximize, waits
+2023-02-02 10:39:10,956 - Demoblaze Automation Framework -INFO - Object Creation
+2023-02-02 10:39:10,961 - Demoblaze Automation Framework -INFO - Test Case execution started 
+2023-02-02 10:39:14,799 - Demoblaze Automation Framework -INFO - Product added to cart
+2023-02-02 10:39:37,343 - Demoblaze Automation Framework -INFO - Test Case execution failed 
+2023-02-02 10:39:40,577 - Demoblaze Automation Framework -INFO - Take Screenshot
+2023-02-02 10:39:41,082 - Demoblaze Automation Framework -INFO - Browser closed
+2023-02-02 10:39:41,088 - Demoblaze Automation Framework -INFO - Framework execution stopped

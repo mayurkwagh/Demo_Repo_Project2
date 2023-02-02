@@ -17,7 +17,7 @@ public class HomePage extends TestBase {
 	@FindBy(xpath="//a[@id='login2']")
 	private WebElement login_link;
 	
-	@FindBy(xpath="//a[contains(text(),'Phones')]")
+	@FindBy(xpath="//a[contains(text(),'Phones')]")   
 	private WebElement phones_link;
 	
 	@FindBy(xpath="//a[contains(text(),'Samsung galaxy s6')]")

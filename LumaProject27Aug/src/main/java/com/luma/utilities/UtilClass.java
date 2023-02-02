@@ -23,7 +23,7 @@ public class UtilClass extends TestBase{
 	
 	public static void takeSS(String filename)
 	{
-		String path = "D:\\Workspace\\eclipse-workspace\\LumaProject27Aug\\screenshots\\";
+		String path ="C:\\Users\\user\\Desktop\\27th aug git folder\\Demo_Repo_Project2\\LumaProject27Aug\\screenshots\\";
 		
 		try 
 		{

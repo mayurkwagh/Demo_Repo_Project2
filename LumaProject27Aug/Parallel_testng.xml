@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Regression Suite">
+<suite parallel="methods" name="RegresionSuite">
+
 
 	<listeners>
 		<listener class-name="com.luma.utilities.ListenerSetup" />
@@ -8,10 +9,11 @@
 	</listeners>
 
 	<parameter name="browser" value="chrome" />
-	<test thread-count="5" name="Regression Test">
-		<classes>
-			<class name="com.luma.testLayer.LoginPageTest" />
-			<class name="com.luma.testLayer.BuyFuctionality" />
-		</classes>
-	</test> <!-- Test -->
+	<test thread-count="5" name="Regression Test"></test>
+	
+  <test thread-count="5" parallel="methods" name="Test">
+    <packages>
+      <package name="com.luma.testLayer"/>
+    </packages>
+  </test> <!-- Test -->
 </suite> <!-- Suite -->

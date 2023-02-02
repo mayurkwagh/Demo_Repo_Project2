@@ -18,7 +18,7 @@ public class CartPage extends TestBase {
 	@FindBy(xpath="//button[contains(text(),'Place Order')]")
 	private WebElement place_order_btn;
 	
-	@FindBy(xpath="//input[@id='name']")
+	@FindBy(xpath="//input[@id='name']")  
 	private WebElement username_txtbox;
 	
 	@FindBy(xpath="//input[@id='country']")
@@ -36,7 +36,7 @@ public class CartPage extends TestBase {
 	@FindBy(xpath="//input[@id='year']")
 	private WebElement year_txtbox;
 	
-	@FindBy(xpath="//button[contains(text(),'Purchase')]")
+	@FindBy(xpath="//button[contains(text(),'Purchased')]") //forced fail
 	private WebElement purchase_btn;
 	
 	// ------------- Action methods -----------
